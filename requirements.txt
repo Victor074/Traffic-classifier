@@ -1,9 +1,7 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-image
-streamlit
-sklearn
-skimage
-matplotlib
+pandas==1.3.5
+numpy==1.22.0
+matplotlib==3.5.1
+seaborn==0.12.2
+scikit-image==0.18.1
+streamlit==1.21.0
+scikit-learn==1.1.2
