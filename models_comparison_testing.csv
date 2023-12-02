@@ -1,0 +1,8 @@
+,Classifier Algorithm,Accuracy score,,,,,,,,,,
+0,CatBoost,0.980260395,,,,,,,,,,
+1,RandomForestClassifier,0.986140277,,,,,,,,,,
+2,LogisticRegression,0.890382192,,,,,,,,,,
+3,GradientBoostingClassifier,0.976060479,,,,,,,,,,
+4,DecisionTreeClassifier,0.898782024,,,,,,,,,,
+5,KNeighborsClassifier,0.837883242,,,,,,,,,,
+,,,,,,,,,,,,

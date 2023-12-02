@@ -1,0 +1,10 @@
+,Classifier Algorithm,Top estimators,Accuracy score
+0,<catboost.core.CatBoostClassifier object at 0x7f7b618f9450>,<catboost.core.CatBoostClassifier object at 0x7f7b61875720>,0.9899159663865547
+1,RandomForestClassifier(random_state=123),"RandomForestClassifier(bootstrap=False, max_depth=10, max_features='log2',
+                       min_samples_split=5, n_estimators=500, random_state=123)",0.9882352941176471
+2,LogisticRegression(random_state=123),"LogisticRegression(C=268.2695795279727, penalty='l1', random_state=123,
+                   solver='saga')",0.9025210084033614
+3,GradientBoostingClassifier(random_state=123),"GradientBoostingClassifier(learning_rate=0.5, max_depth=4, random_state=123)",0.9882352941176471
+4,DecisionTreeClassifier(random_state=123),"DecisionTreeClassifier(max_features='auto', min_samples_split=5,
+                       random_state=123)",0.9411764705882353
+5,KNeighborsClassifier(),KNeighborsClassifier(metric='manhattan'),0.8756302521008402
